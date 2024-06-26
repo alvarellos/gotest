@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-If not installed already, please ensure the latest version of [GG](bitbucket.bit.admin.ch/en5-framework/gg) as well as [Go](https://go.dev/doc/install) is installed:
+If not installed already, please ensure the latest version of [Go](https://go.dev/doc/install) is installed:
 
 ```shell
 -- Install go
@@ -22,6 +22,8 @@ Start Ollama llama3
 ollama run llama3
 ```
 
-Place the function inside text.txt
+## Run the program
+
+Place the function you want a unit test inside of the file text.txt
 
 Compile and run the program and get the result in the standard output
